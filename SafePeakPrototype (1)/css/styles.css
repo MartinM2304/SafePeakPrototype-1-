@@ -1,0 +1,9 @@
+/*!important*/
+:root{
+  --my-butn-color: #00a876;
+}
+.btn-primary {
+  color: #000000;
+  background-color:  var(--my-butn-color) ;
+  border-color: #0d6efd;
+}
